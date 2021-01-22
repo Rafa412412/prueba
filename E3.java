@@ -30,7 +30,7 @@ public class E3{
        
         System.out.println(mayusok);
         
-        //comentario1
+        //comentario2
         
         System.out.println(errornombre2); 
              System.out.println(errornombre);  
